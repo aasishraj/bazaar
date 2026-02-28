@@ -239,7 +239,7 @@ Dark theme. Monospace accents for bundle codes and CLI commands. Header with log
 
 | Component | Technology |
 |-----------|-----------|
-| Web framework | Next.js 15 (App Router) |
+| Web framework | Next.js 16 (App Router) |
 | Auth | NextAuth.js + Google OAuth |
 | Database | Postgres (Prisma) |
 | File storage | Vercel Blob |
